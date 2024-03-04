@@ -1,0 +1,1 @@
+SELECT * FROM gdb0041.dim_customer;

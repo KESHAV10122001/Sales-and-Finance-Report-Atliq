@@ -1,0 +1,1 @@
+SELECT * FROM gdb0041.fact_post_invoice_deductions;

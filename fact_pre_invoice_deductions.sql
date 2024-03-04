@@ -1,0 +1,1 @@
+SELECT * FROM gdb0041.fact_pre_invoice_deductions;
